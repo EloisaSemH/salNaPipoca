@@ -31,7 +31,7 @@ switch($pg) {
         include('pags/sobre.php');
         break;
     case 'contato':
-        include('pags/cadcontatoastro.php');
+        include('pags/contato.php');
         break;
     default:
         include('pags/inicio.php');
