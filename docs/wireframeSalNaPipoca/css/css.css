@@ -1,0 +1,33 @@
+body {
+    background-color: darkgray;
+}
+
+.headerColor {
+    background-color: #921c1c;
+}
+
+.navColor {
+    background-color: firebrick;
+    text-align: center;
+}
+
+.carrossel {
+    background-image: linear-gradient(rgba(0, 0, 0, 0), darkgray 200%);
+    color: firebrick;
+}
+
+h1 {
+    color: #921c1c;
+}
+
+h2 {
+    color: firebrick;
+}
+
+img{
+    margin: auto;
+}
+
+h2{
+    margin-top: 1em;
+}
