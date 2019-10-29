@@ -57,7 +57,7 @@
                 
                 <!-- Noticias -->
                 <li class="nav-item d-none d-lg-block">
-                    <a class="nav-link" href="index.php?pg=noticiasprincipal">Resenhas</a>
+                    <a class="nav-link" href="index.php?pg=resenhas">Resenhas</a>
                 </li>
                 <li class="nav-item dropdown d-lg-none d-xl-none">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -87,7 +87,7 @@
                 
                 <!-- Curiosidades -->
                 <li class="nav-item d-none d-lg-block">
-                    <a class="nav-link" href="index.php?pg=noticiasprincipal">Curiosidades</a>
+                    <a class="nav-link" href="index.php?pg=curiosidades">Curiosidades</a>
                 </li>
                 <li class="nav-item dropdown d-lg-none d-xl-none">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">

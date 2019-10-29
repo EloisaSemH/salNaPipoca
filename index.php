@@ -29,7 +29,7 @@ switch($pg) {
         
 //    Resenhas
     case 'resenhas':
-        include('pags/resenhas.php');
+        include('pags/resenhas/resenhas.php');
         break;
     case 'resenhascategorias':
         include('pags/resenhascategorias.php');

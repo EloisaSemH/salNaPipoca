@@ -1,4 +1,4 @@
-<div class="container bg-light pt-4 pb-4">
+<div class="container bg-light p-0 pt-4 pb-4">
     <!-- Principal -->
     <div class="row">
         <div class="col-sm-12 col-md-12 col-lg-9">Mussum Ipsum, cacilds vidis litro abertis. Copo furadis é disculpa de
@@ -47,18 +47,18 @@
     </div>
 
     <!-- Sessões do site -->
-    <div class="row mt-4">
-        <section class="col-sm-12 col-md-6 col-lg-3">Notícias</section>
-        <section class="col-sm-12 col-md-6 col-lg-3 sessao"></section>
-        <section class="col-sm-12 col-md-6 col-lg-3 sessao"></section>
-        <section class="col-sm-12 col-md-6 col-lg-3 sessao"></section>
+    <div class="row p-3">
+        <section class="col-sm-12 col-md-6 col-lg-3 p-0"><a href="index.php?pg=noticias"><img src="images/home/noticias.jpg" alt="" class="w-100"></a></section>
+        <section class="col-sm-12 col-md-6 col-lg-3 p-0"><a href="index.php?pg=resenhas"><img src="images/home/resenhas.jpg" alt="" class="w-100"></a></section>
+        <section class="col-sm-12 col-md-6 col-lg-3 p-0"><a href="index.php?pg=listas"><img src="images/home/listas.jpg" alt="" class="w-100"></a></section>
+        <section class="col-sm-12 col-md-6 col-lg-3 p-0"><a href="index.php?pg=curiosidades"><img src="images/home/curiosidades.jpg" alt="" class="w-100"></a></section>
     </div>
 
     <!-- Quote da semana -->
     <div class="row justify-content-center">
         <div class="col-sm-12 col-md-12 col-lg-10">
             <div class="card">
-                <div class="card-header">
+                <div class="card-header navColor text-light font-weight-bold">
                     Quote da semana
                 </div>
                 <div class="card-body">

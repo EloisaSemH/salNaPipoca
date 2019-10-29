@@ -11,9 +11,7 @@
     background-color: #921c1c;
 }
 
-.sessao{
-    width: 200px;
-    text-align: center;
-    /* height: 5em; */
-    background-image: url('images/home/noticias.jpg');
+
+.resenhaHeader {
+    background-image: url("../images/resenhas/fundo.jpg");
 }
