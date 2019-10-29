@@ -1,4 +1,4 @@
-<footer class="page-footer mt-3 footerColor text-white">
+<footer class="page-footer footerColor text-white">
   <div style="background-color: firebrick;">
     <div class="container">
       <div class="row py-4 d-flex align-items-center">

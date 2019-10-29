@@ -1,4 +1,4 @@
-<main class="container bg-light">
+<main class="container bg-light pt-4 pb-4">
 
     <div class="row justify-content-center">
         <h1>Sobre</h1>
@@ -18,7 +18,7 @@
     <div class="row justify-content-center">
         <section class="col-sm-12 col-md-12 col-lg-11 ">
             <div class="float-left mr-3">
-                <img src="images/sobre/pica-pau-pistola.jpg" alt="" class="rounded-circle">
+                <img src="images/sobre/bruno.jpg" alt="" class="rounded-circle">
             </div>
             <h2 class="mb-0">Bruno da Silva Nunes</h2>
             <h3 class="mb-0 font-italic">Designer</h3>
@@ -33,7 +33,7 @@
     <div class="row justify-content-center">
         <section class="col-sm-12 col-md-12 col-lg-11 text-right">
             <div class="float-right ml-3">
-                <img src="images/sobre/pica-pau-pistola.jpg" alt="" class="rounded-circle">
+                <img src="images/sobre/cesar.jpg" alt="" class="rounded-circle">
             </div>
             <h2 class="mb-0">Cesar August Silva Barbosa</h2>
             <h3 class="mb-0 font-italic">Designer</h3>
@@ -63,7 +63,7 @@
     <div class="row justify-content-center">
         <section class="col-sm-12 col-md-12 col-lg-11 text-right">
             <div class="float-right ml-3">
-                <img src="images/sobre/pica-pau-pistola.jpg" alt="" class="rounded-circle">
+                <img src="images/sobre/kelly.jpg" alt="" class="rounded-circle">
             </div>
             <h2 class="mb-0">Kelly Louise Faria de Souza</h2>
             <h3 class="mb-0 font-italic">Designer</h3>

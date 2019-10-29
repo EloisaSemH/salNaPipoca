@@ -1,4 +1,4 @@
-<main class="container">
+<main class="container bg-light pt-4 pb-4">
 
     <div class="row justify-content-center text-center">
         <h1>Contato</h1>
