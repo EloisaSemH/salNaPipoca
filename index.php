@@ -15,18 +15,40 @@ switch($pg) {
     case 'inicio':
         include('pags/inicio.php');
         break;
+        
+//    Noticias
     case 'noticias':
         include('pags/noticias.php');
         break;
+    case 'todasnoticias':
+        include('pags/todasnoticias.php');
+        break;
+    case 'noticia':
+        include('pags/noticia.php');
+        break;
+        
+//    Resenhas
     case 'resenhas':
         include('pags/resenhas.php');
         break;
+    case 'resenhascategorias':
+        include('pags/resenhascategorias.php');
+        break;
+    case 'resenha':
+        include('pags/resenha.php');
+        break;
+        
+//    Listas
     case 'listas':
         include('pags/listas.php');
         break;
+        
+//    Curiosidades  
     case 'curiosidades':
         include('pags/curiosidades.php');
         break;
+        
+//    Outros
     case 'sobre':
         include('pags/sobre.php');
         break;
@@ -36,7 +58,7 @@ switch($pg) {
     default:
         include('pags/inicio.php');
         break;  
-}
+}                                                                                     
 
 include_once('pags/-rodape.php');
 

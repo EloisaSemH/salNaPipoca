@@ -37,7 +37,7 @@
     </div>
   </div>
   <!-- Copyright -->
-  <div  style="background-color: firebrick;" class="footer-copyright text-center py-3 text-white align-self-center">
+  <div  style="background-color: firebrick;" class="footer-copyright text-center p-3 text-white align-self-center">
     <a href="https://github.com/EloisaSemH/salNaPipoca" target="_blank"><img src="images/github-logo.png" class="mr-2"/></a>
     Site elaborado por: <a href="#" class="font-weight-bold text-white" target="_blank">Bruno Silva</a>, <a href="#" class="font-weight-bold text-white" target="_blank">Cesar August</a>, <a href="http://about.me/EloisaSemH" class="font-weight-bold text-white" target="_blank">Eloísa Carvalho</a> e <a href="#" class="font-weight-bold text-white" target="_blank">Kelly Louise</a>. 2019-<?= date("Y")?>; Todos os direitos reservados.
   </div>
