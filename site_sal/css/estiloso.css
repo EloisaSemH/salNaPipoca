@@ -1,0 +1,22 @@
+ @charset"utf-8";
+
+/*
+Nome: CSS Sal na Pipoca
+Data: setembro 2019
+Descrição: Estilo e posicionamento CSS (ar da graça)
+Versão:1.0
+*/
+
+/*--------------------------------------Cabeçalho (padrão em todos)--------------------------------------------------------*/
+.headerColor{
+    background-color: #921c1c;
+}
+
+.navColor{
+    background-color: firebrick;
+    text-align: center;
+}
+
+.footerColor{
+    background-color: #921c1c;
+}

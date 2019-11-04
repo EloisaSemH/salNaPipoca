@@ -1,0 +1,20 @@
+
+PROJETO INTEGRADOR: PORTAL SAL NA PIPOCA.
+
+
+
+Kelly-Louise
+Acessogit2019
+minha parte Lista de filmes (publicação de lista de indicação)
+
+cores: branco, grafite, vermelho escuro (vinho).
+
+menu:
+home
+noticias
+resenhas
+curiosidades
+listas 
+quem somos
+contato
+(no rodapé:normas)
