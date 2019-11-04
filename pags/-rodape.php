@@ -23,6 +23,7 @@
         <p><a class="text-light" href="#" target="_blank">Home</a></p>
         <p><a class="text-light" href="#" title="Em breve!">Quem somos</a></p>
         <p><a class="text-light" href="%" title="#" target="_blank">Contato</a></p>
+        <p><a class="text-light" href="#" title="#" target="_blank">Normas de uso</a></p>
     </div>
       <div class="col-sm-12 col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-2">
         <!-- Contato -->
@@ -30,9 +31,8 @@
         <hr class="teal accent-3 mb-3 mt-0 d-inline-block mx-auto" style="width: 60px;">
         <p><a class="text-light" href="#" title="">Bruno</a></p>
         <p><a class="text-light" href="#" title="">Cesar</a></p>
-        <p><a class="text-light" href="#" title="">Eloísa</a></p>
+        <p><a class="text-light" href="index.php?pg=resenhas" title="Resenhas">Eloísa</a></p>
         <p><a class="text-light" href="#" title="">Kelly</a></p>
-        <!-- <p> <i></i>Telefone</p> -->
       </div>
     </div>
   </div>

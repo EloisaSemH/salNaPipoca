@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 
 <head>
-    <script src="https://kit.fontawesome.com/3593c75a8c.js" crossorigin="anonymous"></script>
+    <!-- <script src="https://kit.fontawesome.com/3593c75a8c.js" crossorigin="anonymous"></script> -->
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="author" content="">
