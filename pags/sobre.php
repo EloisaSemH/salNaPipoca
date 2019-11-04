@@ -23,7 +23,7 @@
             <h2 class="mb-0">Bruno da Silva Nunes</h2>
             <h3 class="mb-0 font-italic">Designer</h3>
             <small class="mb-3">R.A: 2650831913035</small>
-            <pFaço sistemas na FATEC São Roque, cursei 3 anos de administração no Mackenzie, fui  comprador do FASANO. Sou apaixonado por Arte e simpático.</p>
+            <p>Faço sistemas na FATEC São Roque, cursei 3 anos de administração no Mackenzie, fui  comprador do FASANO. Sou apaixonado por Arte e simpático.</p>
             <div class="mt-5 text-right">
                 <a href="#">Curiosidades</a>
             </div>
