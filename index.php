@@ -17,14 +17,14 @@ switch($pg) {
         break;
         
 //    Noticias
-    case 'noticias':
-        include('pags/noticias.php');
+    case 'noticiasPrincipal':
+        include('pags/noticias/noticiasPrincipal.html');
         break;
     case 'todasnoticias':
-        include('pags/todasnoticias.php');
+        include('pags/noticias/todasnoticias.html');
         break;
     case 'noticia':
-        include('pags/noticia.php');
+        include('pags/noticia/noticia.html');
         break;
         
 //    Resenhas
