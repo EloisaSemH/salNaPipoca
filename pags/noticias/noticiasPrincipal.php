@@ -106,8 +106,8 @@
                             <div class="float-left d-md-none d-lg-none d-xl-none mr-2">
                                 <img src="images/noticias/n4-Hollywood-p.jpg" alt="Imagem que representa a quarta noticia">
                             </div>
-                            <h3 class="card-title">Hollywood em facções</h3>
-                            <p class="card-text mr-n4">Filmes da Marvel se torna pivô de discussões envolvendo suas produções de super herois.</p>
+                            <h3 class="card-title">Marvel desprezível?</h3>
+                            <p class="card-text mr-n4">Rivalidade em Hollywood se compara aos fãs de Crepúsculo, e os filmes de super-heróis da Marvel são pivô.</p>
                             <hr>
                             <a href="noticia.html" class="card-link">Saiba Mais</a>
                         </section>
@@ -130,7 +130,7 @@
                                 <img src="images/noticias/n5-AnimaisF-p.jpg" alt="Imagem que representa a quinta noticia">
                             </div>
                             <h3 class="card-title">Fantásticos em BR</h3>
-                            <p class="card-text mr-n4">Novo filme da franquia de Harry Potter agora terá cenas gravadas no Brasil.</p>
+                            <p class="card-text mr-n4">Novo filme da franquia de Harry Potter agora terá cenas gravadas no Brasil. Será que chegou a hora do Brasil roubar a cena?</p>
                             <hr>
                             <a href="noticia.html" class="card-link">Saiba Mais</a>
                         </section>
@@ -153,7 +153,7 @@
                                 <img src="images/noticias/n6-Coringa-p.jpg" alt="Imagem que representa a primeira noticia">
                             </div>
                             <h3 class="card-title">Palhaço na liderança</h3>
-                            <p class="card-text mr-n4">Novo filme do universo DC se torna sucesso nas bilheterias do Brasil.</p>
+                            <p class="card-text mr-n4">Novo filme do universo DC se torna sucesso nas bilheterias do Brasil. Agora a piada se tornou mortalmente lucrativa (se é que me entendem...)</p>
                             <hr>
                             <a href="noticia.html" class="card-link">Saiba Mias</a>
                         </section>
