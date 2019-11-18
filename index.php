@@ -18,14 +18,9 @@ switch($pg) {
         
 //    Noticias
     case 'noticiasPrincipal':
-        include('pags/noticias/noticiasPrincipal.html');
+        include('pags/noticias/noticiasPrincipal.php');
         break;
-    case 'todasnoticias':
-        include('pags/noticias/todasnoticias.html');
-        break;
-    case 'noticia':
-        include('pags/noticia/noticia.html');
-        break;
+
         
 //    Resenhas
     case 'resenhas':
