@@ -8,7 +8,7 @@
                 sobre as notícias mais cativantes do cinema o lugar é este!</p>
             <p>Dentro deste portal, esta sessão poderá lhe prover notícias sobre filmes, isso já está bem claro
                 devido a
-                seu t[itulo, mas o que isso significa? Em linhas gerais, esta parte do portal irá lhe proporcionar
+                seu título, mas o que isso significa? Em linhas gerais, esta parte do portal irá lhe proporcionar
                 fatos
                 novos e interessnates que envolvem o cinema </p>
         </article>
@@ -33,10 +33,15 @@
                         <div class="float-left d-md-none d-lg-none d-xl-none mr-2">
                             <img src="images/noticias/n1-Oscar-p.jpg" alt="Imagem que representa a primeira noticia">
                         </div>
-                        <h3 class="card-title"> Indicações ao Oscar 2020</h3>
-                        <p class="card-text mr-n4">Confira aos indicados ao mais renomado prêmio do cinema atual.</p>
-                        <hr>
-                        <a href="noticia.html" class="card-link" data-toggle="modal" data-target="#modalOscar">Saiba Mais</a>
+                        <h2 class="card-title"> Indicações ao Oscar 2020</h3>
+                            <p class="card-text mr-n4">Confira aos indicados ao mais renomado prêmio do cinema atual.</p>
+                            <hr>
+                            <a href="#" class="card-link" data-toggle="modal" data-target="#modalOscar">Saiba Mais</a>
+                            <!-- MODAL -->
+                            <?php
+                            include('pags/noticias/modalOscar.html');
+                            ?>
+                            <!-- MODAL -->
                     </section>
                 </div>
             </div>
@@ -56,14 +61,20 @@
                         <div class="float-left d-md-none d-lg-none d-xl-none mr-2">
                             <img src="images/noticias/n2-Scooby-p.jpg" alt="Imagem que representa a segunda noticia">
                         </div>
-                        <h3 class="card-title">Scooby agora animado</h3>
-                        <p class="card-text mr-n4">O cachorro mais amado das telonas logo estreia no mundo das animações.</p>
-                        <hr>
-                        <a href="noticia.html" class="card-link">Saiba Mais</a>
+                        <h2 class="card-title">Scooby Doo agora animado</h3>
+                            <p class="card-text mr-n4">O cachorro mais amado das telonas logo estreia no mundo das animações.</p>
+                            <hr>
+                            <a href="#" class="card-link" data-toggle="modal" data-target="#modalScooby">Saiba Mais</a>
+                            <!-- MODAL -->
+                            <?php
+                            include('pags/noticias/modalScooby.html');
+                            ?>
+                            <!-- MODAL -->
                     </section>
                 </div>
             </div>
         </div>
+
         <!-- Segunda noticia -->
 
 
@@ -79,10 +90,15 @@
                         <div class="float-left d-md-none d-lg-none d-xl-none mr-2">
                             <img src="images/noticias/n3-StarW-p.jpg" alt="Imagem que representa a terceira noticia">
                         </div>
-                        <h3 class="card-title">Cena épica de Star Wars</h3>
-                        <p class="card-text mr-n4">Atriz Daisy Ridley, revela cena mais emocionante do filme em enntrevista.</p>
-                        <hr>
-                        <a href="noticia.html" class="card-link">Saiba Mais</a>
+                        <h2 class="card-title">Cena épica de Star Wars</h3>
+                            <p class="card-text mr-n4">Atriz Daisy Ridley, revela cena mais emocionante do filme em enntrevista.</p>
+                            <hr>
+                            <a href="#" class="card-link" data-toggle="modal" data-target="#modalStarW">Saiba Mais</a>
+                            <!-- MODAL -->
+                            <?php
+                            include('pags/noticias/modalStarW.html');
+                            ?>
+                            <!-- MODAL -->
                     </section>
                 </div>
             </div>
@@ -105,10 +121,15 @@
                         <div class="float-left d-md-none d-lg-none d-xl-none mr-2">
                             <img src="images/noticias/n4-Hollywood-p.jpg" alt="Imagem que representa a quarta noticia">
                         </div>
-                        <h3 class="card-title">Marvel desprezível?</h3>
-                        <p class="card-text mr-n4">Rivalidade em Hollywood se compara aos fãs de Crepúsculo, e os filmes de super-heróis da Marvel são pivô.</p>
-                        <hr>
-                        <a href="noticia.html" class="card-link">Saiba Mais</a>
+                        <h2 class="card-title">Marvel desprezível?</h3>
+                            <p class="card-text mr-n4">Rivalidade em Hollywood se compara aos fãs de Crepúsculo, e os filmes de super-heróis da Marvel são pivô.</p>
+                            <hr>
+                            <a href="#" class="card-link" data-toggle="modal" data-target="#modalMarvel">Saiba Mais</a>
+                            <!-- MODAL -->
+                            <?php
+                            include('pags/noticias/modalMarvel.html');
+                            ?>
+                            <!-- MODAL -->
                     </section>
                 </div>
             </div>
@@ -128,10 +149,15 @@
                         <div class="float-left d-md-none d-lg-none d-xl-none mr-2">
                             <img src="images/noticias/n5-AnimaisF-p.jpg" alt="Imagem que representa a quinta noticia">
                         </div>
-                        <h3 class="card-title">Fantásticos em BR</h3>
-                        <p class="card-text mr-n4">Novo filme da franquia de Harry Potter agora terá cenas gravadas no Brasil. Será que chegou a hora do Brasil roubar a cena?</p>
-                        <hr>
-                        <a href="noticia.html" class="card-link">Saiba Mais</a>
+                        <h2 class="card-title">Fantásticos em BR</h3>
+                            <p class="card-text mr-n4">Novo filme da franquia de Harry Potter agora terá cenas gravadas no Brasil. Será que chegou a hora do Brasil roubar a cena?</p>
+                            <hr>
+                            <a href="#" class="card-link" data-toggle="modal" data-target="#modalFantastico">Saiba Mais</a>
+                            <!-- MODAL -->
+                            <?php
+                            include('pags/noticias/modalFantastico.html');
+                            ?>
+                            <!-- MODAL -->
                     </section>
                 </div>
             </div>
@@ -151,10 +177,15 @@
                         <div class="float-left d-md-none d-lg-none d-xl-none mr-2">
                             <img src="images/noticias/n6-Coringa-p.jpg" alt="Imagem que representa a primeira noticia">
                         </div>
-                        <h3 class="card-title">Palhaço na liderança</h3>
-                        <p class="card-text mr-n4">Novo filme do universo DC se torna sucesso nas bilheterias do Brasil. Agora a piada se tornou mortalmente lucrativa (se é que me entendem...)</p>
-                        <hr>
-                        <a href="noticia.html" class="card-link">Saiba Mias</a>
+                        <h2 class="card-title">Palhaço na liderança</h3>
+                            <p class="card-text mr-n4">Novo filme do universo DC se torna sucesso nas bilheterias do Brasil. Agora a piada se tornou mortalmente lucrativa (se é que me entendem...)</p>
+                            <hr>
+                            <a href="#" class="card-link" data-toggle="modal" data-target="#modalCoringa">Saiba Mais</a>
+                            <!-- MODAL -->
+                            <?php
+                            include('pags/noticias/modalCoringa.html');
+                            ?>
+                            <!-- MODAL -->
                     </section>
                 </div>
             </div>
@@ -181,10 +212,6 @@
         </div>
     </div>
 
-    <!-- MODAL -->
-    <?php
-    include('pags/noticias/modalOscar.html');
-    ?>
-    <!-- MODAL -->
+
 
 </div>

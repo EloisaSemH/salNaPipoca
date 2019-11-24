@@ -110,6 +110,10 @@
                     <a class="nav-link" href="index.php?pg=contato">Contato</a>
                 </li>
                 
+                <!-- Normas -->
+                <li class="nav-item">
+                    <a class="nav-link" href="index.php?pg=normas">Normas</a>
+                </li>                
                 <!--<li class="nav-item">
                     <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
                 </li>-->
