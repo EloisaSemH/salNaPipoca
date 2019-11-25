@@ -1,3 +1,10 @@
+<nav class="navbar navbar-expand-lg d-none d-lg-block navbar-dark navColor ">
+    <ul class="navbar-nav mr-auto justify-content-center">
+        <li class="nav-item">
+            <a class="nav-link" href="index.php?pg=noticiasPrincipal&id=1">Mais recentes</a>
+        </li>
+    </ul>
+</nav>
 <div class="container bg-light">
     <div class="row pt-5 clearfix">
         <article class="justify-content-center col-md-8 col-lg-10">
