@@ -21,7 +21,7 @@
         </article>
         <div class="col-md-4 col-lg-2 pt-2 d-none d-md-block ml-n2">
             <aside>
-                <img src="images/noticias/jornalzinho.PNG" alt="Imagem bonita que flutua em volta do article">
+                <img src="images/noticias/jornalzinho.png" alt="Imagem bonita que flutua em volta do article">
                 <p class="mt-2">Essa é a página de notícias, e esse é o mascote. Achou bonito?</p>
             </aside>
         </div>
