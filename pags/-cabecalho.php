@@ -40,7 +40,7 @@
 
                 <!-- Noticias -->
                 <li class="nav-item d-none d-lg-block">
-                    <a class="nav-link" href="index.php?pg=noticiasPrincipal">Notícias</a>
+                    <a class="nav-link" href="index.php?pg=noticiasPrincipal&id=1">Notícias</a>
                 </li>
                 <li class="nav-item dropdown d-lg-none d-xl-none">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
