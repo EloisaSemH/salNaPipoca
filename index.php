@@ -50,9 +50,12 @@ switch($pg) {
     case 'contato':
         include('pags/contato.php');
         break;
+    case 'normas':
+        include('pags/normas.php');
+        break;    
     default:
         include('pags/inicio.php');
-        break;  
+        break;
 }                                                                                     
 
 include_once('pags/-rodape.php');

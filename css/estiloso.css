@@ -40,3 +40,10 @@
 .blog .carousel-indicators .active {
 background: #707070;
 }
+
+/*.scrollspySite da página de normas*/
+.scrollspySite{
+    position: relative;
+    overflow: auto;
+    height: 50px;
+}
