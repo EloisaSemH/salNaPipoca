@@ -1,0 +1,234 @@
+@import url('https://fonts.googleapis.com/css?family=Rum+Raisin&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Rum+Raisin&display=swap'); 
+/* Geral */
+.headerColor{
+    background-color: #921c1c;
+}
+
+.navColor{
+    background-color: firebrick;
+}
+
+.footerColor{
+    background-color: #921c1c;
+}
+
+/* Home */
+.principalHome{
+    height: 475px;
+    background-image: url("../images/home/principal.jpg");
+    background-size: cover;
+    background-position: center;
+    background-color: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,1));
+}
+
+.fadeLegenda{
+    background-image: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,1));
+    /* position: fixed; */
+    height: inherit;
+    padding-top: 350px;
+}
+
+.fadeLegendaBlocos{
+    background-image: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,1));
+}
+
+/* Noticias */
+.hd {
+    visibility: hidden;
+}
+
+
+/* Resenhas */
+.resenhaHeader {
+    background-image: url("../images/resenhas/fundo.jpg");
+}
+
+.cardMeio a:hover{
+    background-color: #921c1c;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+.blog .carousel-indicators {
+	left: 0;
+	top: auto;
+    bottom: -40px;
+}
+
+/* Curiosidades */
+.aubody {
+    font-family: 'Playfair Display', serif;
+}
+.h3filmestarantino {
+    color: rgb(179, 39, 46);
+}
+.aau {
+    text-decoration: none;
+    font-family: 'Rum Raisin', sans-serif;
+    color:  rgb(252, 178, 40);
+}
+.curiosidadesalgustash1index {
+
+        color:  rgb(252, 178, 40);
+}
+.cinemabrasilcinemanovoh1 {
+    padding: 0rem 0 3rem 0;
+}
+.imgcopacabanamonamor {
+    padding: 1rem 0 0rem 0;
+}
+.h2cinemanovo {
+    padding: 3.5rem 0 3rem 0;
+}
+.h3cinemanovo {
+    padding: 3.5rem 0 3rem 0;
+}
+.auh1 {
+    margin: 2rem;
+    border-bottom: solid rgb(252, 178, 40);
+    padding-bottom: 2rem;;
+    font-family: 'Rum Raisin', sans-serif;
+    text-align: center;
+}
+.auh2, .auh3, .auh4 {
+    font-family: 'Rum Raisin', sans-serif;
+    text-align: center;
+    padding: 1rem 0rem 2rem 1rem;
+}
+.aup {
+    padding: 1rem 0rem 2rem 1rem;
+}
+.h2quemfoihitchcock {
+    padding: 5rem 0rem 0rem 0rem;
+    font-size: 2rem;
+}
+.h2estapagina {
+    font-size: 1.5rem;
+    padding: 1rem 1rem 1rem 0.52rem;
+    
+}
+.aup {
+    font-size: 1.12rem;
+    padding: 1.3rem 0.7rem 1rem 0.7rem;
+    text-align: justify;
+}
+.pcurtam { font-size: 0.9rem;
+    padding-left: 0.3rem;
+}
+.h1atrizeseatores {
+    padding: 0rem 1rem 3.5rem 1rem;
+}
+.h2atrizeseatores {
+    font-size: 1.7rem;
+    padding: 4rem 1rem 2rem 1rem;
+}
+.h3atrizeseatores {
+    color: rgb(233, 148, 38);
+    padding: 6rem 0rem 0rem 0rem;
+}
+.nossostemasindex {
+    padding: 4rem 0 2rem 0;
+}
+.h3linktodasasmaterias{
+    height: 5rem;
+    margin: 5rem 0 0 0;
+}
+.navpaginainicialemaismaterias {
+    font-size: 2rem;    
+    padding: 3rem 0 2rem 0;
+}
+@media screen and (min-width: 770px) {
+    .aubody {
+        width: 770px;
+        margin: 0 auto 0 auto;
+    }
+    .linkindexcinemanovo {
+        height: 6rem;
+    }
+    .linkindexatoreseatrizes {
+        height: 6rem;
+    }
+    .linkindexhitchcock {
+        height: 6rem;
+    }
+    .h3linktodasasmaterias{
+        height: 6rem;
+        margin: 0 0 0 0;
+    }
+    .auimg {
+        width: 770px;
+        margin: 0 auto 0 auto;
+    }
+    .h3filmestarantino {
+        font-size: 2rem;
+        padding: 5rem 0 3rem 0;
+    }
+    .todasasmateriasindex {
+        font-size: 2.2rem;
+    }
+    .nossostemasindex {
+        font-size: 2.2rem;
+    }
+    .h3indexlinks {
+        padding: 0 0 1rem 0;
+    }
+}
+@media screen and (min-width: 1000px) {
+    .auamaismaterias {
+        font-size: 4rem;
+        padding: 2rem 2rem 2rem 2rem;
+    }
+    .aupaginainicial {
+        font-size: 4rem;
+        padding: 2rem 2rem 2rem 2rem;
+    }
+    .aubody {
+        width: 900px;
+    }
+    .linkindexcinemanovo {
+        height: 10rem;
+    }
+    .linkindexatoreseatrizes {
+        height: 10rem;
+    }
+    .linkindexhitchcock {
+        height: 10rem;
+    }
+    .h3linktodasasmaterias{
+        height: 10rem;
+        margin: 0 0 0 0;
+    }
+    .h3filmestarantino {
+        font-size: 3rem;
+        padding: 7rem 0 4rem 0;
+    }
+    .todasasmateriasindex {
+        padding: 7rem 4rem 7rem 0;
+        font-size: 3rem;
+    }
+    .nossostemasindex {
+        padding: 7rem 0rem 7rem 4rem;
+        font-size: 3rem;
+    }
+    .curiosidadesalgustash1index {
+        padding: 3rem 0rem 3rem 0rem;
+        font-size: 3rem;
+    }
+    .aup {
+        padding: 2rem 3rem 2rem 3rem;
+        font-size: 1.4rem;
+    }
+    .auimg {
+        width: 900px;
+        padding: 0 auto 0 auto;
+    }
+    .auh2, .auh3, .auh4{
+        font-size: 2.2rem;    
+        padding: 2rem 2rem 2rem 2rem;
+    }
+    .h3indexlinks {
+        padding: 0 0 1rem 0;
+    }
+}
