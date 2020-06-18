@@ -13,7 +13,7 @@
                         <h2 class="card-title">Fantásticos em BR</h3>
                             <p class="card-text mr-n3">Novo filme da franquia de Harry Potter agora terá cenas gravadas no Brasil. Será que chegou a hora do Brasil roubar a cena?</p>
                             <hr>
-                            <a href="#" class="card-link" data-toggle="modal" data-target="#modalFantastico">Clique para saber maisProtagonista no alto de um prédio olhando pro vazioa>
+                            <a href="#" class="card-link" data-toggle="modal" data-target="#modalFantastico">Clique para saber mais</a>
                             <!-- MODAL -->
                             <?php
                             include('pags/noticias/modalFantastico.html');
