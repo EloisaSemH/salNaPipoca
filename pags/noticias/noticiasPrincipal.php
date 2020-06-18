@@ -6,17 +6,17 @@
 </header>
 <nav class="navbar navbar-expand-lg d-none d-lg-block navbar-dark navColor ">
     <ul class="navbar-nav mr-auto justify-content-center">
-        <li class="nav-item">
+        <li class="nav-item btn btn-danger mr-1">
             <a class="nav-link" href="#prin">Direto ao principal</a>
         </li>
-        <li class="nav-item">
+        <li class="nav-item btn btn-danger mr-1">
             <a class="nav-link" href="index.php?pg=noticiasPrincipal&id=2" > Notícias mais recentes</a>
         </li>
-        <li class="nav-item">
+        <li class="nav-item btn btn-danger mr-1">
             <a class="nav-link" href="index.php?pg=noticiasPrincipal&id=3">Notícias mais vistas</a>
         </li>
-        <li class="nav-item">
-            <a class="nav-link" href="index.php?pg=noticiasPrincipal&id=4">Notícias mais recomendadas</a>
+        <li class="nav-item btn btn-danger mr-1">
+            <a class="nav-link" href="index.php?pg=noticiasPrincipal&id=4">Notícias recomendadas</a>
         </li>
     </ul>
 </nav>
