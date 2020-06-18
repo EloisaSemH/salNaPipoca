@@ -4,16 +4,16 @@
             <div class="card">
                 <div class="card-body">
                     <section class="pl-0 justify-content-center">
-                        <div class="text-center d-none d-md-block d-lg-block d-xl-block">
-                            <img src="images/noticias/n2-Scooby-g.jpg" alt="Imagem que representa a segunda noticia">
+                        <div class="text-center d-none d-md-none d-lg-block d-xl-block ml-n3 p-0">
+                            <img src="images/noticias/n2-Scooby-g.jpg" alt="Salsicha e Scooby nno cinema comendo pipoca">
                         </div>
-                        <div class="float-left d-md-none d-lg-none d-xl-none mr-2">
-                            <img src="images/noticias/n2-Scooby-p.jpg" alt="Imagem que representa a segunda noticia">
+                        <div class="float-left d-md-block d-lg-none d-xl-none mr-3 ml-3">
+                            <img src="images/noticias/n2-Scooby-p.jpg" alt="Salsicha e Scooby nno cinema comendo pipoca">
                         </div>
-                        <h2 class="card-title">Scooby Doo agora animado</h3>
-                            <p class="card-text mr-n4">O cachorro mais amado das telonas logo estreia no mundo das animações.</p>
+                        <h2 class="card-title">Scooby Doo em animação</h3>
+                            <p class="card-text mr-n3">O cachorro mais amado das telonas logo estreia no mundo das animações.</p>
                             <hr>
-                            <a href="#" class="card-link" data-toggle="modal" data-target="#modalScooby">Saiba Mais</a>
+                            <a href="#" class="card-link" data-toggle="modal" data-target="#modalScooby">Clique para saber mais</a>
                             <!-- MODAL -->
                             <?php
                             include('pags/noticias/modalScooby.html');

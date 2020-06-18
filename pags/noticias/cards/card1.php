@@ -4,16 +4,16 @@
             <div class="card">
                 <div class="card-body">
                     <section class="pl-0 justify-content-center">
-                        <div class="text-center d-none d-md-block d-lg-block d-xl-block ml-n1 p-0">
-                            <img src="images/noticias/n1-Oscar-g.jpg" alt="Imagem que representa a primeira noticia">
+                        <div class="text-center d-none d-md-none d-lg-block d-xl-block ml-n3 p-0">
+                            <img src="images/noticias/n1-Oscar-g.jpg" alt="Mostra os protagonistas dos filmes indicados ao Oscar um do lado do outro">
                         </div>
-                        <div class="float-left d-md-none d-lg-none d-xl-none mr-2">
-                            <img src="images/noticias/n1-Oscar-p.jpg" alt="Imagem que representa a primeira noticia">
+                        <div class="float-left d-md-block d-lg-none d-xl-none mr-3 ml-3">
+                            <img src="images/noticias/n1-Oscar-p.jpg" alt="Mostra os protagonistas dos filmes indicados ao Oscar um do lado do outro">
                         </div>
                         <h2 class="card-title"> Indicações ao Oscar 2020</h3>
                             <p class="card-text mr-n4">Confira aos indicados ao mais renomado prêmio do cinema atual.</p>
                             <hr>
-                            <a href="#" class="card-link" data-toggle="modal" data-target="#modalOscar">Saiba Mais</a>
+                            <a href="#" class="card-link" data-toggle="modal" data-target="#modalOscar">Clique para saber mais</a>
                             <!-- MODAL -->
                             <?php
                             include('pags/noticias/modalOscar.html');
