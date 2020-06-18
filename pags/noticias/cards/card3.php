@@ -13,7 +13,7 @@
                         <h2 class="card-title">Cena épica de Star Wars</h3>
                             <p class="card-text mr-n3">Atriz Daisy Ridley, revela cena mais emocionante do filme em entrevista.</p>
                             <hr>
-                            <a href="#" class="card-link" data-toggle="modal" data-target="#modalStarW">Clique para saber mais</a>
+                            <a href="#" class="card-link" data-toggle="modal" data-target="#modalStarW" aria-label="Abrir notícia sobre Star Wars">Clique para saber mais</a>
                             <!-- MODAL -->
                             <?php
                             include('pags/noticias/modalStarW.html');

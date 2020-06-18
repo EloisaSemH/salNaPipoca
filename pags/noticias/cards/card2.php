@@ -13,7 +13,7 @@
                         <h2 class="card-title">Scooby Doo em animação</h3>
                             <p class="card-text mr-n3">O cachorro mais amado das telonas logo estreia no mundo das animações.</p>
                             <hr>
-                            <a href="#" class="card-link" data-toggle="modal" data-target="#modalScooby">Clique para saber mais</a>
+                            <a href="#" class="card-link" data-toggle="modal" data-target="#modalScooby" aria-label="Abrir notícia sobre Scooby-Doo">Clique para saber mais</a>
                             <!-- MODAL -->
                             <?php
                             include('pags/noticias/modalScooby.html');

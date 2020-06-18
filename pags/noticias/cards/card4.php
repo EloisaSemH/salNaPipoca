@@ -13,7 +13,7 @@
                         <h2 class="card-title">Marvel desprezível?</h3>
                             <p class="card-text mr-n3">Rivalidade em Hollywood se compara aos fãs de Crepúsculo, e os filmes de super-heróis da Marvel são pivô.</p>
                             <hr>
-                            <a href="#" class="card-link" data-toggle="modal" data-target="#modalMarvel">Clique para saber mais</a>
+                            <a href="#" class="card-link" data-toggle="modal" data-target="#modalMarvel" aria-label="Abrir notícia sobre a Marvel">Clique para saber mais</a>
                             <!-- MODAL -->
                             <?php
                             include('pags/noticias/modalMarvel.html');

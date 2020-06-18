@@ -13,7 +13,7 @@
                         <h2 class="card-title">Palhaço na liderança</h3>
                             <p class="card-text mr-n3">Novo filme do universo DC se torna sucesso nas bilheterias do Brasil. Agora a piada se tornou mortalmente lucrativa (se é que me entendem...)</p>
                             <hr>
-                            <a href="#" class="card-link" data-toggle="modal" data-target="#modalCoringa">Clique para saber mais</a>
+                            <a href="#" class="card-link" data-toggle="modal" data-target="#modalCoringa" aria-label="Abrir notícia sobre Coringa">Clique para saber mais</a>
                             <!-- MODAL -->
                             <?php
                             include('pags/noticias/modalCoringa.html');
