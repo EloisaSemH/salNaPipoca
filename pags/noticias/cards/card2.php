@@ -10,7 +10,7 @@
                         <div class="float-left d-md-block d-lg-none d-xl-none mr-3 ml-3">
                             <img src="images/noticias/n2-Scooby-p.jpg" alt="Imagem que representa a segunda noticia">
                         </div>
-                        <h2 class="card-title">Scooby Doo animado</h3>
+                        <h2 class="card-title">Scooby Doo em animação</h3>
                             <p class="card-text mr-n3">O cachorro mais amado das telonas logo estreia no mundo das animações.</p>
                             <hr>
                             <a href="#" class="card-link" data-toggle="modal" data-target="#modalScooby">Saiba Mais</a>
