@@ -4,10 +4,10 @@
             <div class="card">
                 <div class="card-body">
                     <section class="pl-0 justify-content-center">
-                        <div class="text-center d-none d-md-block d-lg-block d-xl-block ml-n1 p-0">
+                        <div class="text-center d-none d-md-none d-lg-block d-xl-block ml-n3 p-0">
                             <img src="images/noticias/n1-Oscar-g.jpg" alt="Imagem que representa a primeira noticia">
                         </div>
-                        <div class="float-left d-md-none d-lg-none d-xl-none mr-2">
+                        <div class="float-left d-md-block d-lg-none d-xl-none mr-3 ml-3">
                             <img src="images/noticias/n1-Oscar-p.jpg" alt="Imagem que representa a primeira noticia">
                         </div>
                         <h2 class="card-title"> Indicações ao Oscar 2020</h3>

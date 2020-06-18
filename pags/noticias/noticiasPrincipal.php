@@ -1,6 +1,6 @@
 <header class="text-center resenhaHeader p-5 text-light">
     <div class="m-5 p-3">
-        <h1 class="font-weight-bold text-uppercase m-0 p-0">Notícias</h1>
+        <h1 class="font-weight-bold text-uppercase m-0 p-0">Notícias do cinema</h1>
         <small class="font-italic m-0 p-0">Por Cesar August</small>
     </div>
 </header>
@@ -21,19 +21,13 @@
     <div class="row pt-5 clearfix">
         <article class="justify-content-center col-md-8 col-lg-10">
             <div class="text-center">
-                <h1>Notícias do cinema</h1>
             </div>
-            <p>Fico feliz de estar alegrando seu momento especial, se desejas encontrar um pouco de conteúdo sincero
-                sobre as notícias mais cativantes do cinema o lugar é este!</p>
-            <p>Dentro deste portal, esta sessão poderá lhe prover notícias sobre filmes, isso já está bem claro
-                devido a
-                seu título, mas o que isso significa? Em linhas gerais, esta parte do portal irá lhe proporcionar
-                fatos
-                novos e interessnates que envolvem o cinema </p>
+            <p>Ficamos contentes por alegrar seu momento especial, se deseja encontrar um pouco de conteúdo sobre as notícias mais cativantes do cinema, o lugar é este!</p>
+            <p>Dentro deste portal, esta sessão poderá trás notícias sobre filmes, como fatos novos e interessantes sobre acontecimentos que envolvem o cinema </p>
         </article>
         <div class="col-md-4 col-lg-2 pt-2 d-none d-md-block ml-n2">
             <aside class="mb-5">
-                <img src="images/noticias/jornalzinho.png" alt="Imagem bonita que flutua em volta do article">
+                <img src="images/noticias/jornalzinho.png" alt="Jornal minimalista com formato de balde com pipocas em cima dele">
             </aside>
         </div>
     </div>

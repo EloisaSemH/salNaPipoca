@@ -4,14 +4,14 @@
             <div class="card">
                 <div class="card-body">
                     <section class="pl-0 justify-content-center">
-                        <div class="text-center d-none d-md-block d-lg-block d-xl-block">
+                        <div class="text-center d-none d-md-none d-lg-block d-xl-block ml-n3 p-0">
                             <img src="images/noticias/n5-AnimaisF-g.jpg" alt="Imagem que representa a quinta noticia">
                         </div>
-                        <div class="float-left d-md-none d-lg-none d-xl-none mr-2">
+                        <div class="float-left d-md-block d-lg-none d-xl-none mr-3 ml-3">
                             <img src="images/noticias/n5-AnimaisF-p.jpg" alt="Imagem que representa a quinta noticia">
                         </div>
                         <h2 class="card-title">Fantásticos em BR</h3>
-                            <p class="card-text mr-n4">Novo filme da franquia de Harry Potter agora terá cenas gravadas no Brasil. Será que chegou a hora do Brasil roubar a cena?</p>
+                            <p class="card-text mr-n3">Novo filme da franquia de Harry Potter agora terá cenas gravadas no Brasil. Será que chegou a hora do Brasil roubar a cena?</p>
                             <hr>
                             <a href="#" class="card-link" data-toggle="modal" data-target="#modalFantastico">Saiba Mais</a>
                             <!-- MODAL -->
