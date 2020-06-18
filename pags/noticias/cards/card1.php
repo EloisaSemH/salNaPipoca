@@ -13,7 +13,7 @@
                         <h2 class="card-title"> Indicações ao Oscar 2020</h3>
                             <p class="card-text mr-n4">Confira aos indicados ao mais renomado prêmio do cinema atual.</p>
                             <hr>
-                            <a href="#" class="card-linkr" data-toggle="modal" data-target="#modalOscar">Clique para saber mais</a>
+                            <a href="#" class="card-link" data-toggle="modal" data-target="#modalOscar">Clique para saber mais</a>
                             <!-- MODAL -->
                             <?php
                             include('pags/noticias/modalOscar.html');
