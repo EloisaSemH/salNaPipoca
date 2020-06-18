@@ -24,7 +24,7 @@
         <p><a class="text-light" href="index.php?pg=normas" target="_blank">Normas de uso</a></p>
     </div>
       <div class="col-sm-12 col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-2">
-        <h6 class="text-uppercase font-weight-bold text-white">Dsenvolvedores</h6>
+        <h6 class="text-uppercase font-weight-bold text-white">Desenvolvedores</h6>
         <hr class="teal accent-3 mb-3 mt-0 d-inline-block mx-auto" style="width: 60px;">
         <p><a class="text-light" href="index.php?pg=curiosidades" title="Curiosidades">Bruno</a></p>
         <p><a class="text-light" href="index.php?pg=noticias&id=1" title="Notícias">Cesar</a></p>

@@ -1,4 +1,4 @@
-<div class="row justify-content-center mt-4 mb-0">
+<div class="row justify-content-center mt-4 mb-0 clearfix">
     <div class="card p-3 border-light bg-light" style="max-width: 1500px;">
         <div class="row no-gutters">
             <div class="col-md-4 text-right d-none d-lg-block d-xl-block">

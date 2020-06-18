@@ -76,7 +76,11 @@ while(file_exists('pags/resenhas/textos/resenha' . $i . '.txt')){
     <div class="col-md-8">
       <div class="card-body">
         <h5 class="card-title"><?php echo $linha = fgets($arquivo, 1024); ?></h5>
-        <p class="card-text text-truncate"><?php echo $linha = fgets($arquivo, 1024); ?></p>
+        <p class="card-text text-truncate"><?php
+          $texto = fgets($arquivo, 1024);
+          $frases = explode('.', $texto);
+          echo $frases[1] . '...';
+          ?></p>
         <a href="index.php?pg=resenha&idR=<?php echo $i; ?>" class="btn btn-outline-danger">Ver resenha!</a>
       </div>
     </div>

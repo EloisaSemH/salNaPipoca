@@ -16,7 +16,7 @@
         <div class="text-center d-none d-lg-block d-xl-block float-left">
             <a href="index.php"><img src="images/salNaPipocaRodape.png" alt="Logotipo do Sal na Pipoca com um saco de pipoca com um óculos 3d, um saleiro jogando sal no mesmo, com escritas ao lado nos dizeres 'Sal na Pipoca'" class="w-50"></a>
         </div>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Menu de navegação">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="d-lg-none d-xl-none m-1">
@@ -25,13 +25,13 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                    <a class="nav-link " href="index.php">Início <span class="sr-only">(current)</span></a>
+                    <a class="nav-link p-3 " href="index.php">Início <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item d-none d-lg-block">
-                    <a class="nav-link" href="index.php?pg=noticias&id=1">Notícias</a>
+                    <a class="nav-link p-3" href="index.php?pg=noticias&id=1">Notícias</a>
                 </li>
                 <li class="nav-item dropdown d-lg-none d-xl-none">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <a class="nav-link p-3 dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Notícias
                     </a>
                     <div class="dropdown-menu headerColor " aria-labelledby="navbarDropdown">
@@ -42,13 +42,13 @@
                     </div>
                 </li>
                 <li class="nav-item d-none d-lg-block">
-                    <a class="nav-link" href="index.php?pg=resenhas">Resenhas</a>
+                    <a class="nav-link p-3" href="index.php?pg=resenhas">Resenhas</a>
                 </li>
                 <li class="nav-item dropdown d-lg-none d-xl-none">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <a class="nav-link p-3 dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Resenhas
                     </a>
-                    <div class="dropdown-menu headerColor " aria-labelledby="navbarDropdown">
+                    <div class="dropdown-menu headerColor" aria-labelledby="navbarDropdown">
                         <a class="dropdown-item text-light" href="index.php?pg=resenhas">Principal</a>
                         <div class="dropdown-divider"></div>
                         <a class="dropdown-item text-light" href="index.php?pg=resenhascategorias&cat=acao">Ação e aventura</a>
@@ -63,7 +63,7 @@
                     </div>
                 </li>
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <a class="nav-link p-3 dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Listas
                     </a>
                     <div class="dropdown-menu headerColor " aria-labelledby="navbarDropdown">
@@ -74,10 +74,10 @@
                     </div>
                 </li>
                 <li class="nav-item d-none d-lg-block">
-                    <a class="nav-link" href="index.php?pg=curiosidades">Curiosidades</a>
+                    <a class="nav-link p-3" href="index.php?pg=curiosidades">Curiosidades</a>
                 </li>
                 <li class="nav-item dropdown d-lg-none d-xl-none">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <a class="nav-link p-3 dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Curiosidades
                     </a>
                     <div class="dropdown-menu headerColor " aria-labelledby="navbarDropdown">
@@ -86,14 +86,14 @@
                     </div>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="index.php?pg=sobre">Sobre nós</a>
+                    <a class="nav-link p-3" href="index.php?pg=sobre">Sobre nós</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="index.php?pg=contato">Contato</a>
+                    <a class="nav-link p-3" href="index.php?pg=contato">Contato</a>
                 </li>
             </ul>
             <form class="form-inline my-2 my-lg-0 justify-content-center">
-                <input class="form-control mr-sm-2" type="search" placeholder="O que procura?" aria-label="Search">
+                <input class="form-control mr-sm-2" type="search" placeholder="O que procura?" aria-label="Pesquisar">
                 <button class="btn btn-danger my-2 my-sm-0" type="submit"><i class="fas fa-search"></i></button>
             </form>
         </div>

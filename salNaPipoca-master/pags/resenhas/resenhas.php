@@ -17,7 +17,11 @@ while(file_exists('pags/resenhas/textos/resenha' . $i . '.txt')){
                 <div class="col-md-8">
                     <div class="card-body">
                         <h5 class="card-title"><?php echo fgets($arquivo, 1024); ?></h5>
-                        <p class="card-text text-truncate"><?php echo fgets($arquivo, 1024); ?></p>
+                        <p class="card-text text-truncate"><?php
+                            $texto = fgets($arquivo, 1024);
+                            $frases = explode('.', $texto);
+                            echo $frases[1] . '...';
+                        ?></p>
                         <!-- <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
                         <a class="btn btn-outline-danger mt-3" href="index.php?pg=resenha&idR=<?php echo $i;?>">Ver
                             resenha!</a>
@@ -39,7 +43,11 @@ while(file_exists('pags/resenhas/textos/resenha' . $i . '.txt')){
                 alt="<?php echo fgets($arquivo, 1024); ?>">
             <div class="card-body">
                 <h5 class="card-title"><?php echo fgets($arquivo, 1024); ?></h5>
-                <p class="card-text text-truncate"><?php echo fgets($arquivo, 1024); ?></p>
+                <p class="card-text text-truncate"><?php
+                 $texto = fgets($arquivo, 1024);
+                 $frases = explode('.', $texto);
+                 echo $frases[1] . '...';
+                 ?></p>
             </div>
             <a href="index.php?pg=resenha&idR=<?php echo $ante; ?>" class="card-footer navColor text-light text-center">
                 Ver mais!
