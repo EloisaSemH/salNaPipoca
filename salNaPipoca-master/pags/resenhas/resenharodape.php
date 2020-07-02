@@ -2,10 +2,10 @@
     <div class="card p-3 border-light bg-light" style="max-width: 1500px;">
         <div class="row no-gutters">
             <div class="col-md-4 text-right d-none d-lg-block d-xl-block">
-                <img src="images/sobre/eloisa.jpg" class="card-img rounded-circle w-50" alt="...">
+                <img src="images/sobre/eloisa.jpg" class="card-img rounded-circle w-50" alt="Foto da desenvolvedora Eloísa, que usa um óculos preto levemente arredondado, tem olhos castanho-escuros e cabelo castanho com azul.">
             </div>
             <div class="col-md-4 text-center d-lg-none d-xl-none">
-                <img src="images/sobre/eloisa.jpg" class="card-img rounded-circle w-50" alt="...">
+                <img src="images/sobre/eloisa.jpg" class="card-img rounded-circle w-50" alt="Foto da desenvolvedora Eloísa, que usa um óculos preto levemente arredondado, tem olhos castanho-escuros e cabelo castanho com azul.">
             </div>
             <div class="col-md-7 mr-1">
                 <div class="card-body">

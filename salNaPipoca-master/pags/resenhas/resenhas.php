@@ -49,7 +49,7 @@ while(file_exists('pags/resenhas/textos/resenha' . $i . '.txt')){
                  echo $frases[1] . '...';
                  ?></p>
             </div>
-            <a href="index.php?pg=resenha&idR=<?php echo $ante; ?>" class="card-footer navColor text-light text-center">
+            <a  aria-label="Link para categoria " href="index.php?pg=resenha&idR=<?php echo $ante; ?>" class="card-footer navColor text-light text-center">
                 Ver mais!
             </a>
         </div>
@@ -69,37 +69,18 @@ while(file_exists('pags/resenhas/textos/resenha' . $i . '.txt')){
                     <div class="carousel-item p-0 active">
                         <div class="row justify-content-center text-center p-0">
                             <div class="col-md-4 p-0 m-0">
-                                <a href="index.php?pg=resenhascategorias&cat=acao">
-                                    <img src="images/resenhas/acao.jpg" alt="Image" class="w-100">
+                                <a  aria-label="Link para categoria " href="index.php?pg=resenhascategorias&cat=acao">
+                                    <img src="images/resenhas/acao.jpg" alt="Categoria ação" class="w-100">
                                 </a>
                             </div>
                             <div class="col-md-4 p-0 m-0">
-                                <a href="index.php?pg=resenhascategorias&cat=animacao">
-                                    <img src="images/resenhas/animacao.jpg" alt="Image" class="w-100">
+                                <a  aria-label="Link para categoria " href="index.php?pg=resenhascategorias&cat=animacao">
+                                    <img src="images/resenhas/animacao.jpg" alt="Categoria animação" class="w-100">
                                 </a>
                             </div>
                             <div class="col-md-4 p-0 m-0">
-                                <a href="index.php?pg=resenhascategorias&cat=comedia">
-                                    <img src="images/resenhas/comedia.jpg" alt="Image" class="w-100">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="carousel-item p-0">
-                        <div class="row justify-content-center text-center p-0">
-                            <div class="col-md-4 p-0 m-0">
-                                <a href="index.php?pg=resenhascategorias&cat=cult">
-                                    <img src="images/resenhas/cult.jpg" alt="Image" class="w-100">
-                                </a>
-                            </div>
-                            <div class="col-md-4 p-0 m-0">
-                                <a href="index.php?pg=resenhascategorias&cat=drama">
-                                    <img src="images/resenhas/drama.jpg" alt="Image" class="w-100">
-                                </a>
-                            </div>
-                            <div class="col-md-4 p-0 m-0">
-                                <a href="index.php?pg=resenhascategorias&cat=drama">
-                                    <img src="images/resenhas/fantasia.jpg" alt="Image" class="w-100">
+                                <a  aria-label="Link para categoria " href="index.php?pg=resenhascategorias&cat=comedia">
+                                    <img src="images/resenhas/comedia.jpg" alt="Categoria comédia" class="w-100">
                                 </a>
                             </div>
                         </div>
@@ -107,18 +88,37 @@ while(file_exists('pags/resenhas/textos/resenha' . $i . '.txt')){
                     <div class="carousel-item p-0">
                         <div class="row justify-content-center text-center p-0">
                             <div class="col-md-4 p-0 m-0">
-                                <a href="index.php?pg=resenhascategorias&cat=ficcao">
-                                    <img src="images/resenhas/ficcao.jpg" alt="Image" class="w-100">
+                                <a  aria-label="Link para categoria cult" href="index.php?pg=resenhascategorias&cat=cult">
+                                    <img src="images/resenhas/cult.jpg" alt="Categoria cult" class="w-100">
                                 </a>
                             </div>
                             <div class="col-md-4 p-0 m-0">
-                                <a href="index.php?pg=resenhascategorias&cat=musical">
-                                    <img src="images/resenhas/musical.jpg" alt="Image" class="w-100">
+                                <a  aria-label="Link para categoria drama" href="index.php?pg=resenhascategorias&cat=drama">
+                                    <img src="images/resenhas/drama.jpg" alt="Categoria drama" class="w-100">
                                 </a>
                             </div>
                             <div class="col-md-4 p-0 m-0">
-                                <a href="index.php?pg=resenhascategorias&cat=romance">
-                                    <img src="images/resenhas/romance.jpg" alt="Image" class="w-100">
+                                <a  aria-label="Link para categoria fantasia" href="index.php?pg=resenhascategorias&cat=drama">
+                                    <img src="images/resenhas/fantasia.jpg" alt="Categoria fantasia" class="w-100">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel-item p-0">
+                        <div class="row justify-content-center text-center p-0">
+                            <div class="col-md-4 p-0 m-0">
+                                <a  aria-label="Link para categoria ficção" href="index.php?pg=resenhascategorias&cat=ficcao">
+                                    <img src="images/resenhas/ficcao.jpg" alt="Categoria ficção" class="w-100">
+                                </a>
+                            </div>
+                            <div class="col-md-4 p-0 m-0">
+                                <a  aria-label="Link para categoria musical" href="index.php?pg=resenhascategorias&cat=musical">
+                                    <img src="images/resenhas/musical.jpg" alt="Categoria musical" class="w-100">
+                                </a>
+                            </div>
+                            <div class="col-md-4 p-0 m-0">
+                                <a  aria-label="Link para categoria romance" href="index.php?pg=resenhascategorias&cat=romance">
+                                    <img src="images/resenhas/romance.jpg" alt="Categoria romance" class="w-100">
                                 </a>
                             </div>
                         </div>
